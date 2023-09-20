@@ -1,2 +1,2 @@
 # Password_Generator👮‍♂️🔑
-Atividade do curso técnico concluída com o objetivo de criar um sistema que gera senhas a partir da idade do usuário
+Technical course activity completed with the objective of creating a system that generates passwords based on the user's age
